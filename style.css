@@ -1,0 +1,112 @@
+/* add styling here */
+
+.three-images{
+  display: flex;
+  justify-content: space-between;
+  /* margin-top: 30%; */
+}
+
+#Mexico_layout{
+  margin-right: 5%;
+  margin-left: 20%;
+
+}
+
+#Spain_layout{
+  /* margin-right: 0%; */
+  margin-left: 15%;
+}
+
+#France_layout{
+  /* margin-right: 0%; */
+  margin-left: 20%;
+}
+
+.div1{
+  float: left;
+  flex: 1;
+  margin-right: 5.0%;
+  margin-left: 10%;
+}
+
+.div2{
+  float: left;
+  flex: 1;
+  margin-right: 7.5%;
+}
+
+.div3{
+  float: left;
+  flex: 1;
+}
+
+img {
+  border: 5px solid black;
+}
+
+h1{
+  text-align: center;
+  color: darkcyan;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#layout_table{
+  display: flex;
+  border: solid black 3px;
+  justify-content: center;
+  margin: 25px;
+}
+
+ul{
+  list-style-type: none;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#city{
+  margin: 10px;
+}
+
+#navbar {
+  display: flex;
+  border: solid black 3px;
+  justify-content: center;
+  margin: 25px;
+}
+
+body {
+  margin: 25px;
+}
+
+#Home{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 10px;
+}
+
+#Mexico{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 10px;
+}
+
+#Spain{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 10px;
+}
+
+#France{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 10px;
+}
+
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
